@@ -1,6 +1,6 @@
 Joined Github **3** years ago.
 
-Since then I pushed **1578** commits, opened **78** issues, submitted **107** pull requests, received **208** stars across **13** personal projects and contributed to **25** public repositories.
+Since then I pushed **1580** commits, opened **78** issues, submitted **107** pull requests, received **208** stars across **13** personal projects and contributed to **25** public repositories.
 
 Most used languages across my projects:
 
@@ -11,6 +11,6 @@ Most used languages across my projects:
 ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%EF%B8%B15.3%25)
 ![Rust](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23dea584&message=Rust%EF%B8%B12.7%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B12%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.7%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.6%25)
 
 <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
