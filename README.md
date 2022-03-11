@@ -1,6 +1,6 @@
 Joined Github **4** years ago.
 
-Since then I pushed **1734** commits, opened **85** issues, submitted **119** pull requests, received **398** stars across **18** personal projects and contributed to **11** public repositories.
+Since then I pushed **1734** commits, opened **85** issues, submitted **119** pull requests, received **400** stars across **18** personal projects and contributed to **11** public repositories.
 
 Most used languages across my projects:
 
@@ -10,7 +10,7 @@ Most used languages across my projects:
 ![Julia](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23a270ba&message=Julia%EF%B8%B17.3%25)
 ![Vue](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2341b883&message=Vue%EF%B8%B15.4%25)
 ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%EF%B8%B12.8%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B12.6%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B12.7%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B14.6%25)
 
 <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
